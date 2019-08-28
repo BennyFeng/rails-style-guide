@@ -15,8 +15,8 @@ You can generate a PDF or an HTML copy of this guide using
 
 Translations of the guide are available in the following languages:
 
-* [Chinese Simplified](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
-* [Chinese Traditional](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhTW.md)
+* [Chinese Simplified](https://github.com/BennyFeng/rails-style-guide/blob/master/README-zhCN.md)
+* [Chinese Traditional](https://github.com/BennyFeng/rails-style-guide/blob/master/README-zhTW.md)
 * [German](https://github.com/arbox/de-rails-style-guide/blob/master/README-deDE.md)
 * [Japanese](https://github.com/satour/rails-style-guide/blob/master/README-jaJA.md)
 * [Russian](https://github.com/arbox/rails-style-guide/blob/master/README-ruRU.md)
